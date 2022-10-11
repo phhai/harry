@@ -36,7 +36,3 @@ Here are a few things I've picked up along my learning journey.
 
 - _Master's degree, Computer ScienceMaster's degree, Computer Science (2008-2012)_ 🧙🏽‍♂️
 - _Bachelor's degree, Computer Science (2004 - 2008)_ 🤖
-
----
-
-`Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!`
