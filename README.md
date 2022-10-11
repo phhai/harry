@@ -12,13 +12,6 @@
 
 <p> I am an experienced software engineer with a strong passion in UI/UX design. I have a Master of Science in Computer Science from one of the top universities in Vietnam. 
 I have built various successful applications/frameworks for multiple companies including Ride-hailing, Fintech, and Autonomous Vehicle. For the past 10 years, I have been developing solid skills in Software Engineering while tackling hard and practical problems. I always enjoy building impactful applications which can bring high values to society.
-Skills: 
-<br />
-• Full-stack engineering: more than 14 years of experience with web development and mobile development.
-• Back-end: NodeJS, Java, .Net, SQL Server/Postgres/MongoDB
-• Front-end: ReactJS, React Native, Objective C, Swift (iOS)
-• Other skills: Optimization, GIS, Scrapping, etc.
-• I am also a seasoned manager generally leading a small team of 3-4 members or at times up to 10 or more members.
 </p>
 
 ### 👨🏽‍💻Tech Stack
